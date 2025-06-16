@@ -1,5 +1,5 @@
 <?php
-namespace sergey-sla\PhpFirebaseCloudMessaging;
+namespace SergeySla\PhpFirebaseCloudMessaging;
 
 /**
  * @link https://firebase.google.com/docs/cloud-messaging/http-server-ref#notification-payload-support

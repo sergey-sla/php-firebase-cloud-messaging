@@ -1,9 +1,9 @@
 <?php
-namespace sngrl\PhpFirebaseCloudMessaging;
+namespace sergey-sla\PhpFirebaseCloudMessaging;
 
-use sngrl\PhpFirebaseCloudMessaging\Recipient\Recipient;
-use sngrl\PhpFirebaseCloudMessaging\Recipient\Topic;
-use sngrl\PhpFirebaseCloudMessaging\Recipient\Device;
+use sergey-sla\PhpFirebaseCloudMessaging\Recipient\Recipient;
+use sergey-sla\PhpFirebaseCloudMessaging\Recipient\Topic;
+use sergey-sla\PhpFirebaseCloudMessaging\Recipient\Device;
 
 /**
  * @author sngrl

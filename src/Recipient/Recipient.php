@@ -1,5 +1,5 @@
 <?php
-namespace sergey-sla\PhpFirebaseCloudMessaging\Recipient;
+namespace SergeySla\PhpFirebaseCloudMessaging\Recipient;
 
 class Recipient
 {

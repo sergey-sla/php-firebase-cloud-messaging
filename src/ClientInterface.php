@@ -1,5 +1,5 @@
 <?php
-namespace sergey-sla\PhpFirebaseCloudMessaging;
+namespace SergeySla\PhpFirebaseCloudMessaging;
 
 use GuzzleHttp;
 

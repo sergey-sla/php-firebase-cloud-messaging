@@ -20,12 +20,12 @@
     },
     "autoload": {
         "psr-4": {
-            "sergey-sla\\PhpFirebaseCloudMessaging\\": "src/"
+            "SergeySla\\PhpFirebaseCloudMessaging\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "sergey-sla\\PhpFirebaseCloudMessaging\\Tests\\": "tests/"
+            "SergeySla\\PhpFirebaseCloudMessaging\\Tests\\": "tests/"
         }
     }
 }
